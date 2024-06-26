@@ -1,0 +1,5 @@
+.env
+.vscode
+.deleted
+docker/nginx/config/web/vendor/
+redis-cache/

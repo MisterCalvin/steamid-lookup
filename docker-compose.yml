@@ -1,0 +1,12 @@
+services:
+  steamid-lookup:
+    image: ghcr.io/mistercalvin/steamid-lookup:latest
+    container_name: steamid-lookup
+    build:
+      context: docker/nginx/
+    environment:
+      - TZ="UTC"
+      - STEAM_API_KEY=""
+    ports:
+      - 8080:80
+    restart: unless-stopped
