@@ -10,7 +10,7 @@ Simple frontend for querying SteamID information using [xpaw/SteamID.php](https:
 ## Quickstart
 ```
 docker run -d \
-  --name=steamid-lookupm \
+  --name=steamid-lookup \
   -e TZ="UTC" \
   -e STEAM_API_KEY="" \
   -p 8080:80 \
