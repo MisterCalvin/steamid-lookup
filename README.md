@@ -33,5 +33,5 @@ docker run -d \
 [xPaw/SourceQuery](https://github.com/xPaw/PHP-Source-Query) - PHP Source Query class  
 [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - tiny NGINX 1.24/PHP-FPM 8.3 Dockerfile 
 [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - [block-exploits.conf](docker/nginx/config/conf.d/include/block-exploits.conf)  
-[https://www.svgrepo.com/](https://www.svgrepo.com/) - icons
+[https://www.svgrepo.com/](https://www.svgrepo.com/) - icons  
 [steamid.io](https://steamid.io/lookup) - influenced UI
